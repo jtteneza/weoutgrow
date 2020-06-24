@@ -1,0 +1,133 @@
+@font-face
+{
+    font-family: MagicalStylishSansSerifDemo-qLKqimport;
+    src: url(MagicalStylishSansSerifDemo-qLKq.otf);
+}
+@font-face
+{
+    font-family: Solway-Regularimport;
+    src: url(Solway-Regular.ttf);
+}
+@font-face
+{
+    font-family: Dosis-VariableFont_wghtimpimport;
+    src: url(Dosis-VariableFont_wght.ttf);
+}
+.body
+{
+    background-attachment: fixed;
+    background-color: #a0c5e2;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+/* card*/
+.title1
+{
+    font-family: Dosis-VariableFont_wghtimpimport;
+    position: absolute;
+    top: 1%;
+    color: #4e5174;
+    margin-bottom: 0px;
+    width: 352px;
+    text-align: center;
+}
+.iconcolor
+{
+    color: rgb(241, 52, 4);
+}
+.card
+{
+    border-radius: 10px!important;
+    background-image: url('../images/color.jpg');
+    top: 63px;
+    height: 394px;
+    display: flex;
+    width: 352px;
+}
+
+/* Formbox */
+.Form1
+{
+    font-family: MagicalStylishSansSerifDemo-qLKqimport;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 41px;
+}
+.form-control
+{
+    margin-bottom: 10px;
+}
+.rectangle
+{
+    margin-top: 36px;
+}
+.checkbox1
+{
+    margin-right: 53%;
+    color: rgb(10, 10, 10);
+}
+.label1
+{
+    padding-right: 41px;
+    color: black;
+    margin-left: 0px;
+}
+.Link1
+{
+    color: snow;
+    transition: 0.9s;
+}
+.Link1:hover
+{
+    color: black;
+}
+.button1
+{
+    font-family: MagicalStylishSansSerifDemo-qLKqimport;
+    cursor: pointer;
+    height: 28px;
+}
+.log-in1
+{
+    border-radius: 30px;
+}
+
+/* Sign-up Box */
+
+.rectangle2
+{
+    margin-top: 7px;
+    height: 149px;
+}
+
+.label1
+{
+    font-family: MagicalStylishSansSerifDemo-qLKqimport;
+    color: blanchedalmond;
+    margin-left: 43px;
+}
+/* socia media box */
+.FB
+{
+    font-family: MagicalStylishSansSerifDemo-qLKqimport;
+    width: 329px;
+    margin-left: 3%;
+}
+.fbicon
+{
+    width: 22px;
+}
+.gicon
+{
+    width: 22px;
+}
+
+
+
+
